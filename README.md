@@ -1,1 +1,1 @@
-# TitanicPredictionDataset
+# TitanicSurvivalPrediction
